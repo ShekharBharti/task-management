@@ -13,3 +13,4 @@
 1. Create - http://localhost:8080/api/tasks
 2. Delete - http://localhost:8080/api/tasks/{id}
 3. Update - http://localhost:8080/api/tasks
+4. Read - http://localhost:8080/api/tasks
